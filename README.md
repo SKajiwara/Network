@@ -1,4 +1,5 @@
 ## Network
+My work from Network class
 1. File copy with a maximum buffer size using C++
   - This creates a copy file of a file you specified adding .copy after the file name.
   - To run: ```$ g++ copy.cpp -o copy
@@ -6,7 +7,9 @@
 2. Send a file over a local network with a buffer size using UDP.
   - This sends a file to a client to server (should've been opposite...).
   - Run the server followed by the client on different terminals.
-  - To run: ```
+  - To run: 
+  
+  ```
   $ g++ UDPclient_writeFile.cpp -o client
   $ ./client file_name
 
