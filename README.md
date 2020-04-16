@@ -7,8 +7,8 @@ My work from Network class
 2. Send a file over a local network with a buffer size using UDP.
   - This sends a file to a client to server (should've been opposite...).
   - Run the server followed by the client on different terminals.
-  - To run: 
-  
+  - To run:
+
   ```
   $ g++ UDPclient_writeFile.cpp -o client
   $ ./client file_name
