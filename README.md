@@ -14,8 +14,8 @@
   $ ./server file_name
   ```
 3. Just exchanging messages using UDP over a local network
-  - [C]()
-  - [C++]()
+  - [C](https://github.com/SKajiwara/Network/tree/master/local_communication/C)
+  - [C++](https://github.com/SKajiwara/Network/tree/master/local_communication/CPP)
 ### Code references
 1. [c++ implementation of UPD client/server]( https://www.daniweb.com/programming/software-development/threads/429287/udp-client-server)
 2. [c implementation of UPD client/server](https://www.geeksforgeeks.org/udp-server-client-implementation-c/)
